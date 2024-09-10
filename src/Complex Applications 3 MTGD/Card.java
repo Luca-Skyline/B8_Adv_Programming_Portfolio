@@ -14,7 +14,7 @@ public class Card {
 	int quantity;
 	boolean isLegendary;
 	Rarity my_rarity;
-	ArrayList<Type> my_type;
+	public ArrayList<Type> my_type;
 	
 	public Card(String name, int quantity, ArrayList<Integer> types, int rarity, boolean isLegendary){
 		this.name = name;
