@@ -11,7 +11,7 @@ When you add a note to the journal, it gets encrypted before being written to th
 
 The inverse process takes place when reading from the file. Only when the "magic numbers" of both input and output are the same can you recover the original message.
 
-<img src="https://github.com/Luca-Skyline/B8_Adv_Programming_Portfolio/blob/42a64495add7aa9be40888d907003683fa21b0d6/images/Pandora%20Intro.png" width = 350>
+<img src="https://github.com/Luca-Skyline/B8_Adv_Programming_Portfolio/blob/42a64495add7aa9be40888d907003683fa21b0d6/images/Pandora%20Intro.png" width = 400>
 <img src="https://github.com/Luca-Skyline/B8_Adv_Programming_Portfolio/blob/42a64495add7aa9be40888d907003683fa21b0d6/images/Pandora%20Home.png" width = 250>
 
 ## Complex Applications 3: Magic the Gathering Database
