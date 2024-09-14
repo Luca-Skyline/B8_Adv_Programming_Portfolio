@@ -11,8 +11,8 @@ When you add a note to the journal, it gets encrypted before being written to th
 
 The inverse process takes place when reading from the file. Only when the "magic numbers" of both input and output are the same can you recover the original message.
 
-<img src="" width = 250>
-<img src="" width = 250>
+<img src="https://github.com/Luca-Skyline/B8_Adv_Programming_Portfolio/blob/42a64495add7aa9be40888d907003683fa21b0d6/images/Pandora%20Home.png" width = 250>
+<img src="https://github.com/Luca-Skyline/B8_Adv_Programming_Portfolio/blob/42a64495add7aa9be40888d907003683fa21b0d6/images/Pandora%20Intro.png" width = 250>
 
 ## Complex Applications 3: Magic the Gathering Database
 With this application, users can keep track of the Magic cards in their collection. They can create cards with a name, quantity, multiple card types, rarity, and legendaryness. New cards are appended to an Arraylist. They can then view, edit, and delete cards, as well as filter and view their collection based on card type. This last feature is recursive so you can filter down to specific combinations such as "artifact creatures".
